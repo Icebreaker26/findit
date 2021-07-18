@@ -24,6 +24,7 @@ box-shadow: -1px -1px 4px 4px teal;
 
     background: url("resources/footer2.png");
     bottom-fixed;
+    position:fixed;
     width:100%;
     height:100px;
     background-color:black;
