@@ -10,12 +10,49 @@
 #videobanner{
 
 width: 100%;
-height: 400px;
+height: 350px;
 box-shadow: -1px -1px 4px 4px teal;
 
 
 
 }
+
+
+
+#footer{
+
+
+    background: url("resources/footer2.png");
+    bottom-fixed;
+    width:100%;
+    height:100px;
+    background-color:black;
+    
+    
+    box-shadow: 4px 4px 4px teal;
+    
+    color: white;
+    text-align: center;
+    
+    
+    }
+
+#footertext{
+
+    
+    font-family: 'Kite One', sans-serif;
+    font-size: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
 
 
 .lightsaber { position: relative; }
